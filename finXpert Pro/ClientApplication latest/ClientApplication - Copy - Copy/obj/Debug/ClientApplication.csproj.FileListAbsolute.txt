@@ -1,0 +1,264 @@
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Daniyal\source\repos\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication\bin\Debug\BIM-ISO8583.NET.dll
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\ClientApplication.exe.config
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\BIM-ISO8583.NET.dll
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\ClientApplication - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication - Copy\obj\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\BIM-ISO8583.NET.dll
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+D:\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+D:\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+D:\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+D:\ClientApplication - Copy - Copy\bin\Debug\BIM-ISO8583.NET.dll
+D:\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.dll
+D:\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+D:\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\RestSharp.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.CodeDom.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.Odbc.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.OleDb.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Packaging.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Ports.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Dell\source\repos\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.Fody.CopyLocal.cache
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\RestSharp.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Buffers.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.CodeDom.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.Odbc.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.OleDb.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Drawing.Common.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Packaging.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Ports.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Memory.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Permissions.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.AccessControl.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.Fody.CopyLocal.cache
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+D:\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encodings.Web.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Json.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ValueTuple.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\RestSharp.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Buffers.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.CodeDom.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.Odbc.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.OleDb.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Drawing.Common.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Packaging.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Ports.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Memory.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Permissions.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encodings.Web.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Json.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.AccessControl.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ValueTuple.xml
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.Fody.CopyLocal.cache
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+D:\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.exe
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.pdb
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Form1.resources
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe.config
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.exe
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\ClientApplication.pdb
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\RestSharp.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Buffers.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.CodeDom.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.Odbc.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.OleDb.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Drawing.Common.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Packaging.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.IO.Ports.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Memory.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Permissions.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Text.Json.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.Fody.CopyLocal.cache
+C:\Users\HP\Downloads\finXpert Pro\finXpert Pro\ClientApplication latest\ClientApplication - Copy - Copy\obj\Debug\ClientApplication.csproj.CopyComplete
